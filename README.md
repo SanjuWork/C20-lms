@@ -1,1 +1,2 @@
-# C20-lms
+# collisionAlgorithm
+Algorithm to detect collision between two objects
